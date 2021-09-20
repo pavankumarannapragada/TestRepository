@@ -5,4 +5,8 @@ public class Onhand
   {
     System.out.println("Inside onhan class..");
   }
+  public void consolidateOnhand()
+  {
+    System.out.println("Inside consolidateOnhand() method....");
+  }
 }
